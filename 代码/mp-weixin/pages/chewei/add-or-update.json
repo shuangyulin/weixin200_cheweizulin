@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#F37335",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "车位信息添加",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
